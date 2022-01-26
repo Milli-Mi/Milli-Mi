@@ -1,6 +1,6 @@
 - Hello and Welcome 👋, I’m @Milli-Mi
 - I’m a Student (Html, Css, JS, React)
-- 💞️ I love coding, cats and books
+- 💞️ I like coding, cats and books
 
 
 <!---
