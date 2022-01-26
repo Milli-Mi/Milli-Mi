@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Milli-Mi
+- Hello and Welcome 👋, I’m @Milli-Mi
+- I’m a Student
+- 
+
+
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
 Milli-Mi/Milli-Mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
