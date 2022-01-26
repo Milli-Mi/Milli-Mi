@@ -1,5 +1,5 @@
 - Hello and Welcome 👋, I’m @Milli-Mi
-- I’m a Student(HTML, CSS, JS, REACT)
+- I’m a Student (Html, Css, JS, React)
 - 💞️ I love coding, cats and books
 
 
